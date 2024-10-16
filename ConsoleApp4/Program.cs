@@ -78,7 +78,7 @@ namespace ConsoleApp4
 
             // Ejercicio proveedor
             var proveedor1 = new Proveedor();
-
+            
     
 
             Console.ReadKey();
